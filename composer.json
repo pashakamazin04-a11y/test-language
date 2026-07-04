@@ -1,5 +1,5 @@
 {
-    "name": "pasha/test-language",
+    "name": "pashakamazin04-a11y/test-language",
     "description": "Тестовый языковой пакет для Gruppas",
     "type": "flarum-extension",
     "extra": {
