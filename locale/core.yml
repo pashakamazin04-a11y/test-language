@@ -1,0 +1,7 @@
+core:
+  forum:
+    nav:
+      categories_button: "Gruppas Forum"
+      discuss_button: "Обсуждения"
+    header:
+      title: "Gruppas Forum"
