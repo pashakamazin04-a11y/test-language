@@ -1,0 +1,23 @@
+{
+    "name": "pasha/test-language",
+    "description": "Тестовый языковой пакет для Gruppas",
+    "type": "flarum-extension",
+    "extra": {
+        "flarum-extension": {
+            "title": "Gruppas Language Pack",
+            "category": "language",
+            "icon": {
+                "name": "fas fa-comments",
+                "backgroundColor": "#e02424",
+                "color": "#fff"
+            }
+        },
+        "flarum-locale": {
+            "code": "uk",
+            "title": "Gruppas Forum"
+        }
+    },
+    "require": {
+        "flarum/core": "^1.0"
+    }
+}
